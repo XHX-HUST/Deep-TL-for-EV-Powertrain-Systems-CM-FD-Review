@@ -1,1 +1,1 @@
-# Deep-Transfer-Learning-
+# This is the experimental code and detailed implementation documentation for the performance analysis of the three basic deep transfer learning paradigms—AA, BB, and CC—using the CWRU dataset in the review article “Deep Transfer Learning Technology-Based Condition Monitoring and Fault Diagnosis of Electric Vehicle Electric Powertrain Systems: A Review.”
